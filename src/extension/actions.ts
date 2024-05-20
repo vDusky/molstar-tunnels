@@ -1,9 +1,3 @@
-/**
- * Copyright (c) 2024 mol* contributors, licensed under MIT, See LICENSE file for more info.
- *
- * @author Dušan Veľký <dvelky@mail.muni.cz>
- */
-
 import { PluginStateObject } from 'molstar/lib/mol-plugin-state/objects';
 import { StateTransforms } from 'molstar/lib/mol-plugin-state/transforms';
 import { PluginContext } from 'molstar/lib/mol-plugin/context';

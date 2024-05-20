@@ -1,9 +1,3 @@
-/**
- * Copyright (c) 2024 mol* contributors, licensed under MIT, See LICENSE file for more info.
- *
- * @author Dušan Veľký <dvelky@mail.muni.cz>
- */
-
 import { WebGLContext } from 'molstar/lib/mol-gl/webgl/context';
 import { PluginStateObject } from 'molstar/lib/mol-plugin-state/objects';
 import { Color } from 'molstar/lib/mol-util/color';

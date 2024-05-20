@@ -1,9 +1,3 @@
-/**
- * Copyright (c) 2024 mol* contributors, licensed under MIT, See LICENSE file for more info.
- *
- * @author Dušan Veľký <dvelky@mail.muni.cz>
- */
-
 import { OrderedSet } from 'molstar/lib/mol-data/int';
 import { addSphere } from 'molstar/lib/mol-geo/geometry/mesh/builder/sphere';
 import { Mesh } from 'molstar/lib/mol-geo/geometry/mesh/mesh';

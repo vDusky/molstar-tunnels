@@ -1,9 +1,3 @@
-/**
- * Copyright (c) 2024 mol* contributors, licensed under MIT, See LICENSE file for more info.
- *
- * @author Dušan Veľký <dvelky@mail.muni.cz>
- */
-
 import { createTunnelShape, createSpheresShape } from './algorithm';
 import { PluginStateObject } from 'molstar/lib/mol-plugin-state/objects';
 import { StateTransformer } from 'molstar/lib/mol-state';
